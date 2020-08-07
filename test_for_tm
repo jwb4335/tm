@@ -1,0 +1,1 @@
+gen tm = (name == "bkobilov") | (likes_arsenal == 1)
